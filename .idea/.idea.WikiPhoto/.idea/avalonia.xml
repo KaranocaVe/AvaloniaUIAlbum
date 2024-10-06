@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="WikiPhoto/App.axaml" value="WikiPhoto/WikiPhoto.csproj" />
+        <entry key="WikiPhoto/Views/AboutView.axaml" value="WikiPhoto/WikiPhoto.csproj" />
+        <entry key="WikiPhoto/Views/MainWindow.axaml" value="WikiPhoto/WikiPhoto.csproj" />
+        <entry key="WikiPhoto/Views/PhotoView.axaml" value="WikiPhoto/WikiPhoto.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

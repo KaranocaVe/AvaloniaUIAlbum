@@ -1,0 +1,26 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             xmlns:vm="using:WikiPhoto.ViewModels"
+             x:Class="WikiPhoto.Views.AboutView"
+             x:DataType="vm:AboutViewModel"
+             xmlns:sukiUi="clr-namespace:SukiUI.Controls;assembly=SukiUI">
+
+    <sukiUi:GlassCard Margin="30">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="8*"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <TextBlock Grid.Row="0" Text="{Binding InfoTitle}" FontSize="30" FontWeight="SemiBold"></TextBlock>
+            
+            <TextBlock Grid.Row="1" Text="{Binding InfoContent}"></TextBlock>
+
+
+        </Grid>
+    </sukiUi:GlassCard>
+    
+</UserControl>
