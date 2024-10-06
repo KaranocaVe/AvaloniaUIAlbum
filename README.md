@@ -1,6 +1,6 @@
-# AvaloniaUIAlbum
+# AvaloniaUIAlbum 是一个使用 AvaloniaUI 构建的桌面应用程序，用于展示维基百科的精选图片。
 
-WikiPhoto 是一个使用 AvaloniaUI 构建的桌面应用程序，用于展示维基百科的精选图片。
+
 
 ## 功能
 
