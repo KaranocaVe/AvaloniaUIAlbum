@@ -8,6 +8,8 @@ WikiPhoto 是一个使用 AvaloniaUI 构建的桌面应用程序，用于展示�
 - 侧边菜单导航
 - 搜索功能
 
+![Display](/8da00917-b0da-4562-983c-2da99d67435b.png)
+
 ## 依赖
 
 - [AvaloniaUI](https://avaloniaui.net/)
