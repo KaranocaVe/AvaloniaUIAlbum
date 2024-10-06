@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikiPhoto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca66ba3e401fa4afa49469e5a253331d2fd7249")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c60ae91b966244a29c4d0c914b393dfdc059c66")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikiPhoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikiPhoto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
